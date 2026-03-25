@@ -67,3 +67,12 @@ Rank 8: pytorch (Score: 0.40)
 Rank 9: opencv (Score: 0.40)
 Rank 10: machine learning (Score: 0.40)
 
+<img width="1021" height="707" alt="Future prediction" src="https://github.com/user-attachments/assets/15900528-17ec-42a4-91c7-03c9f1ef7351" />
+
+<img width="989" height="590" alt="Top skills" src="https://github.com/user-attachments/assets/eac7e246-d044-472e-8e60-1182cc60daf2" />
+
+<img width="987" height="590" alt="Future tred" src="https://github.com/user-attachments/assets/ad2f6ea4-9fa6-471d-85e1-af72c8bf582f" />
+
+<img width="991" height="2038" alt="Top 10 skills" src="https://github.com/user-attachments/assets/c1db29b2-9878-4ad4-9fd0-145ffeeccd6e" />
+
+<img width="1069" height="707" alt="Statergic map" src="https://github.com/user-attachments/assets/f192199c-6623-445b-93c1-89991d32ca56" />
