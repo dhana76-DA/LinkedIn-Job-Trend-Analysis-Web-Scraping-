@@ -79,3 +79,7 @@ Rank 10: machine learning (Score: 0.40)
 <img width="1069" height="707" alt="Statergic map" src="https://github.com/user-attachments/assets/f192199c-6623-445b-93c1-89991d32ca56" />
 
  <img width="1188" height="590" alt="Time series" src="https://github.com/user-attachments/assets/b2cd4274-d95b-417d-a856-090ffc8b670e" />
+ 
+<img width="794" height="987" alt="Road map" src="https://github.com/user-attachments/assets/bb9bc991-5065-4077-9ef4-265c225be1ee" />
+
+ 
