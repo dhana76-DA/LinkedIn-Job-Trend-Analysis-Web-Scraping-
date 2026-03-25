@@ -76,3 +76,5 @@ Rank 10: machine learning (Score: 0.40)
 <img width="991" height="2038" alt="Top 10 skills" src="https://github.com/user-attachments/assets/c1db29b2-9878-4ad4-9fd0-145ffeeccd6e" />
 
 <img width="1069" height="707" alt="Statergic map" src="https://github.com/user-attachments/assets/f192199c-6623-445b-93c1-89991d32ca56" />
+
+ <img width="1188" height="590" alt="Time series" src="https://github.com/user-attachments/assets/b2cd4274-d95b-417d-a856-090ffc8b670e" />
