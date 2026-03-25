@@ -42,3 +42,26 @@ To enhance the impact of this market intelligence tool, the following future ste
 # Conclusion
 By transforming unstructured web data into a structured Skill-Role Matrix, this project provides a clear roadmap for career advancement. It proves that SQL remains the universal bridge skill, while Cloud and ML are the high-growth accelerators. This system offers a scalable solution for job seekers in cities like Vijayawada to align their learning with the actual requirements of the modern tech landscape, ensuring they are always "Market-Ready."
 
+
+# Skill                                                                  
+python                         2                  0.0               0.8
+azure                          1                  0.0               0.4
+computer vision                1                  0.0               0.4
+javascript                     1                  0.0               0.4
+aws                            1                  0.0               0.4
+react                          1                  0.0               0.4
+sql                            1                  0.0               0.4
+pytorch                        1                  0.0               0.4
+opencv                         1                  0.0               0.4
+machine learning               1                  0.0               0.4
+Rank 1: python (Score: 0.80)
+Rank 2: azure (Score: 0.40)
+Rank 3: computer vision (Score: 0.40)
+Rank 4: javascript (Score: 0.40)
+Rank 5: aws (Score: 0.40)
+Rank 6: react (Score: 0.40)
+Rank 7: sql (Score: 0.40)
+Rank 8: pytorch (Score: 0.40)
+Rank 9: opencv (Score: 0.40)
+Rank 10: machine learning (Score: 0.40)
+
